@@ -1,10 +1,17 @@
 {
  "d": {
-  "t": 1792007856986,
+  "t": 1793119079603,
   "iptal": [],
   "uzat": {},
   "kapali": false,
-  "mesaj": ""
+  "mesaj": "",
+  "kisa": {
+   "dc0e2c98f14b987a949dd6cc390d826a56ce96cd": {
+    "id": "RNKh2eAB",
+    "n": "Doğancan Özgubar",
+    "e": "2026-11-26"
+   }
+  }
  },
- "s": "7ld1BjO5rIF1LCfkuJGSJBmlpTNIPdj0zP7k-CGpboEDve2V__wjUBNfexsppv5vRTzam21M6WzZXIQxi9aaBQ"
+ "s": "S_znq6I16ft59z_bsZbxWIhJcYKCW9x3UCfsjMbEOh_ZT_6GCjCIgv1ZIrjaXNwWlzZcK7BljwPlgZzxNJP-DQ"
 }
