@@ -1,7 +1,7 @@
 {
  "d": {
   "k": "lisans",
-  "t": 1793654358517,
+  "t": 1794002629376,
   "iptal": [],
   "uzat": {
    "RNKh2eAB": "2027-02-24",
@@ -23,6 +23,10 @@
     "id": "aUyKgy9U",
     "e": "2026-12-02",
     "mh": "e4a0454c103e6c3a204ea40680800ae0"
+   },
+   "88e6d97a3dd6dba7431bc61ff1d49406adb0b52c": {
+    "id": "u2MIjnb1",
+    "e": "2027-11-07"
    }
   },
   "akt": {
@@ -30,5 +34,5 @@
    "j": "PQgcBwMf2_vz7f-Wn_bs9_iekpbWpoHLcUFVX2kXSFlfHg0hE21cPQMbudXW2fT1nevI7bL9p5Gq2ZWzmGhbdXVjWlUAVigDHTEPXhcyT9PA1Nne88Hn4Yibu7Wt"
   }
  },
- "s": "xNdYJ86_cKBIy-khTzWTIcskcAlSJVrJG0JpkI2XFSVNrKUUxl-mBc27oB4RH2b-bX9-OI1DuNkT7D5SUO_XDg"
+ "s": "BxswLHyypH2Ht4yNZ-LfSZ4fGBU8AiIvPFhfc3XoJ3740fL3yVOMXpOuhrFT2TBEcKKt3MNGsTUj_V8NZT0DAg"
 }
